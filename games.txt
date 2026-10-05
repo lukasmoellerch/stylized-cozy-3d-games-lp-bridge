@@ -1,0 +1,40 @@
+# slug|steam search term|category
+townscaper|Townscaper|cozy-builder
+cloud-gardens|Cloud Gardens|cozy-builder
+alba-a-wildlife-adventure|Alba: A Wildlife Adventure|cozy-adventure
+bad-north|Bad North: Jotunn Edition|stylized-strategy
+superhot|SUPERHOT|stylized-action
+superhot-mind-control-delete|SUPERHOT: MIND CONTROL DELETE|stylized-action
+lovely-planet|Lovely Planet|stylized-action
+lovely-planet-arcade|Lovely Planet Arcade|stylized-action
+lovely-planet-2|Lovely Planet 2: April Skies|stylized-action
+lovely-planet-remix|Lovely Planet Remix|stylized-action
+a-short-hike|A Short Hike|cozy-adventure
+sable|Sable|stylized-adventure
+lil-gator-game|Lil Gator Game|cozy-adventure
+islanders|ISLANDERS|cozy-builder
+untitled-goose-game|Untitled Goose Game|cozy-adventure
+tiny-glade|Tiny Glade|cozy-builder
+dorfromantik|Dorfromantik|cozy-builder
+summerhouse|SUMMERHOUSE|cozy-builder
+toem|TOEM: A Photo Adventure|cozy-adventure
+mineko-night-market|Mineko's Night Market|cozy-adventure
+little-kitty-big-city|Little Kitty, Big City|cozy-adventure
+tchia|Tchia|stylized-adventure
+journey|Journey|stylized-adventure
+abzu|ABZU|stylized-adventure
+firewatch|Firewatch|stylized-adventure
+tunic|TUNIC|stylized-adventure
+rime|RiME|stylized-adventure
+wavetale|Wavetale|stylized-adventure
+okami-hd|Okami HD|stylized-adventure
+sludge-life|SLUDGE LIFE|stylized-adventure
+proteus|Proteus|stylized-adventure
+return-of-the-obra-dinn|Return of the Obra Dinn|stylized-puzzle
+the-witness|The Witness|stylized-puzzle
+viewfinder|Viewfinder|stylized-puzzle
+cocoon|COCOON|stylized-puzzle
+katamari-damacy-reroll|Katamari Damacy REROLL|stylized-action
+hi-fi-rush|Hi-Fi RUSH|stylized-action
+lonely-mountains-downhill|Lonely Mountains: Downhill|stylized-action
+the-falconeer|The Falconeer: Revolution Remaster|stylized-action
